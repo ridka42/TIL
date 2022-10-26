@@ -12,8 +12,21 @@
 <summary>10월 27일</summary>
 <div markdown="1">       
 
-<a href="https://github.com/ridka42/TIL/tree/main/Python/AlpacoLec/221027">python</a>
-  * 강의 제목, 뭐 배웠는지 
+>  <details>
+>  <summary>Python</summary>
+>  <div markdown="1">        
+>   * <a href="https://github.com/ridka42/TIL/tree/main/Python/AlpacoLec/221027">강의 제목별 링크</a>
+> </div>
+> </details>
+
+>  <details>
+>  <summary>Uipath</summary>
+>  <div markdown="1">        
+>   * <a href="https://github.com/ridka42/TIL/tree/main/Python/AlpacoLec/221027">강의 제목별 링크</a>
+> </div>
+> </details>
+
+
 
 </div>
 </details>
