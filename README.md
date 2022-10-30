@@ -68,10 +68,12 @@
 > <details>
 > <summary>Uipath</summary>
 > <div markdown="1">        
->   <a href="https://github.com/ridka42/TIL/tree/main/Uipath/UipathAcademy/221030">Variables and Arguments in Studio</a> 
+>   <a href="https://github.com/ridka42/TIL/tree/main/Uipath/UipathAcademy/221030">Variables and Arguments in Studio</a><br>
+>   <a href="https://github.com/ridka42/TIL/tree/main/Uipath/UipathAcademy/221030">Control Flow in Studio</a> 
 > </div>
 >  </details>
 
+  
 
 </div>
 </details>
