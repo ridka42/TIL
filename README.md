@@ -9,7 +9,8 @@
 
 <details>
 <summary>10월 27일</summary>
-<div markdown="1">       
+<div markdown="1">      
+
 
 >  <details>
 >  <summary>Python</summary>
@@ -30,13 +31,13 @@
 > </details>
 
 
-
 </div>
 </details>
 
 <details>
 <summary>10월 28일</summary>
-<div markdown="1">       
+<div markdown="1">     
+
 
 >  <details>
 >  <summary>Python</summary>
@@ -48,6 +49,7 @@
 > </div>
 > </details>
 
+
 >  <details>
 >  <summary>Uipath</summary>
 >  <div markdown="1">        
@@ -56,6 +58,23 @@
 > </details>
 
 
+</div>
+</details>
+
+
+<details>
+<summary>10월 30일</summary>
+<div markdown="1">     
+
+
+> <details>
+> <summary>Uipath</summary>
+> <div markdown="1">        
+>   <a href="https://github.com/ridka42/TIL/tree/main/Uipath/UipathAcademy/221030">Variables and Arguments in Studio</a> 
+> </div>
+>  </details>
+
 
 </div>
 </details>
+
