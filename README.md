@@ -1,7 +1,5 @@
 # TIL
 
-공부 하는 것
-
 <a href="https://github.com/ridka42/TIL/tree/main/Python">Python</a></li> <br>
 <a href="https://github.com/ridka42/TIL/tree/main/Uipath">Uipath</a></li>
 
