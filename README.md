@@ -4,10 +4,14 @@
 <a href="https://github.com/ridka42/TIL/tree/main/Uipath">Uipath</a></li>
 
 ### 2022
-
 <details>
-<summary>10월 27일</summary>
-<div markdown="1">      
+<summary>10월</summary>
+<div markdown="1"> 
+
+
+   <details>
+   <summary>10월 27일</summary>
+   <div markdown="1">      
 
 
 >  <details>
@@ -68,13 +72,16 @@
 > <details>
 > <summary>Uipath</summary>
 > <div markdown="1">        
->   <a href="https://github.com/ridka42/TIL/tree/main/Uipath/UipathAcademy/221030">Variables and Arguments in Studio</a><br>
->   <a href="https://github.com/ridka42/TIL/tree/main/Uipath/UipathAcademy/221030">Control Flow in Studio</a> 
+>   <a href="https://github.com/ridka42/TIL/tree/main/Uipath/UipathAcademy/221030/1030%20Variables%20and%20Arguments%20in%20Studio">Variables and Arguments in Studio</a><br>
+>   <a href="https://github.com/ridka42/TIL/tree/main/Uipath/UipathAcademy/221030/1030%20Control%20Flow%20in%20Studio">Control Flow in Studio</a> 
 > </div>
 >  </details>
 
   
 
+   </div>
+   </details>
+
+
 </div>
 </details>
-
