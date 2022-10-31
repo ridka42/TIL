@@ -8,7 +8,7 @@
 <summary>10월</summary>
 <div markdown="1"> 
 
-
+---
    <details>
    <summary>10월 27일</summary>
    <div markdown="1">   
@@ -57,6 +57,25 @@
 
 </div>
 </details>
+
+
+<details>
+<summary>10월 31일</summary>
+<div markdown="1">     
+
+#### Python      
+>   <a href="https://github.com/ridka42/TIL/tree/main/Python/AlpacoLec/221028">38 ~ 40</a> <br>
+> 38. 인터넷에 있는 표를 데이터프레임으로 만드는 방법 <br>
+> 39. 인터넷 뉴스 기사 가져오는 방법 <br>
+> 40. 수집한 뉴스 기사로 빈도분석하고 워드클라우드 그리기 방법
+
+#### Uipath       
+>   <a href="https://github.com/ridka42/TIL/tree/main/Uipath/UipathAcademy/221031">Control Flow in Studio</a> 
+
+</div>
+</details>
+
+
 
 
 </div>
