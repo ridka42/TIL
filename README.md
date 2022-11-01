@@ -8,7 +8,7 @@
 <summary>10월</summary>
 <div markdown="1"> 
 
----
+
    <details>
    <summary>10월 27일</summary>
    <div markdown="1">   
@@ -79,24 +79,21 @@
 </div>
 </details>
 
-
+---
 
 <details>
 <summary>11월</summary>
 <div markdown="1"> 
-
----
-
 
 
 <details>
 <summary>11월 1일</summary>
 <div markdown="1">     
 
-#### Python      
+#### Python        
 >   <a href="https://github.com/ridka42/TIL/tree/main/Python/AlpacoLec/221101">데이터 분석강의 41 ~ 42</a> <br>
-> 41. 네트워크 반응을 이용해서 데이터 크롤링하기 <br>
-> 42. 핵심정리 데이터분석
+>  41. 네트워크 반응을 이용해서 데이터 크롤링하기 <br>
+>  42. 핵심정리 데이터분석
 
 
 >   <a href="https://github.com/ridka42/TIL/tree/main/Python/Practice/%EC%99%95%EC%B4%88%EB%B3%B4%EB%A5%BC%EC%9C%84%ED%95%9CPython/221101">왕초보를위한Python 연습문제</a> <br>
