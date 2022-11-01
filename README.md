@@ -3,14 +3,18 @@
 <a href="https://github.com/ridka42/TIL/tree/main/Python">Python</a></li> <br>
 <a href="https://github.com/ridka42/TIL/tree/main/Uipath">Uipath</a></li>
 
-### 2022
+## 2022
+
 <details>
-<summary>10월</summary>
-<div markdown="1"> 
+<summary>~10월~</summary>
+<div markdown="1">
+
+
+Python & Uipath
 
 
    <details>
-   <summary>10월 27일</summary>
+   <summary>27일</summary>
    <div markdown="1">   
    
 #### Python
@@ -30,7 +34,7 @@
 
 
 <details>
-<summary>10월 28일</summary>
+<summary>28일</summary>
 <div markdown="1">     
 
 #### Python      
@@ -47,7 +51,7 @@
 
 
 <details>
-<summary>10월 30일</summary>
+<summary>30일</summary>
 <div markdown="1">     
 
 
@@ -60,7 +64,7 @@
 
 
 <details>
-<summary>10월 31일</summary>
+<summary>31일</summary>
 <div markdown="1">     
 
 #### Python      
@@ -75,19 +79,21 @@
 </div>
 </details>
 
-
 </div>
 </details>
 
----
+
 
 <details>
-<summary>11월</summary>
+<summary>~11월~</summary>
 <div markdown="1"> 
 
 
+Python
+
+
 <details>
-<summary>11월 1일</summary>
+<summary>1일</summary>
 <div markdown="1">     
 
 #### Python        
