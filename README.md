@@ -122,6 +122,30 @@ Python
 
 
 
+<details>
+<summary>2일</summary>
+<div markdown="1">     
+
+#### Python        
+>   <a href="https://github.com/ridka42/TIL/tree/main/Python/Inflearn/WebScrapping/221102"> 웹 스크래핑(나도코딩) </a> <br>
+## 섹션 0. 소개
+
+웹 스크래핑 소개
+
+## 섹션 1. 기본기
+
+HTML, XPath, 크롬, Requests
+
+정규식 기본 1, 정규식 기본 2, User Agent
+
+BeautifulSoup4 기본1, BeautifulSoup4 기본2 (네이버 웹툰)
+
+BeautifulSoup4 활용1, BeautifulSoup4 활용2 (가우스 전자)
+
+</div>
+</details>
+
+
 </div>
 </details>
 
