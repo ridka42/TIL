@@ -96,7 +96,7 @@ Python
 <summary>1일</summary>
 <div markdown="1">     
 
-#### Python        
+### Python        
 >   <a href="https://github.com/ridka42/TIL/tree/main/Python/AlpacoLec/221101">데이터 분석강의 41 ~ 42</a> <br>
 >  41. 네트워크 반응을 이용해서 데이터 크롤링하기 <br>
 >  42. 핵심정리 데이터분석
@@ -126,13 +126,13 @@ Python
 <summary>2일</summary>
 <div markdown="1">     
 
-#### Python        
+### Python        
 >   <a href="https://github.com/ridka42/TIL/tree/main/Python/Inflearn/WebScrapping/221102"> 웹 스크래핑(나도코딩) </a> <br>
-## 섹션 0. 소개
+#### 섹션 0. 소개
 
 웹 스크래핑 소개
 
-## 섹션 1. 기본기
+#### 섹션 1. 기본기
 
 HTML, XPath, 크롬, Requests
 
@@ -141,6 +141,25 @@ HTML, XPath, 크롬, Requests
 BeautifulSoup4 기본1, BeautifulSoup4 기본2 (네이버 웹툰)
 
 BeautifulSoup4 활용1, BeautifulSoup4 활용2 (가우스 전자)
+
+</div>
+</details>
+
+
+
+<details>
+<summary>3일</summary>
+<div markdown="1">     
+
+### Python        
+>   <a href="https://github.com/ridka42/TIL/tree/main/Python/Inflearn/WebScrapping/221103"> 웹 스크래핑(나도코딩) </a> <br>
+#### 섹션 1. 기본기
+
+BeautifulSoup4 활용2-1, BeautifulSoup4 활용2-2, BeautifulSoup4 활용2-3, BeautifulSoup4 활용2-4 (쿠팡) 11/03
+
+BeautifulSoup4 활용3-1, BeautifulSoup4 활용3-2 (다음 이미지) 11/03
+
+CSV 기본1, CSV 기본2(네이버 금융) 11/03
 
 </div>
 </details>
