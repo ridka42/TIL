@@ -127,7 +127,7 @@ Python
 <div markdown="1">     
 
 ### Python        
->   <a href="https://github.com/ridka42/TIL/tree/main/Python/Inflearn/WebScrapping/221102"> 웹 스크래핑(나도코딩) </a> <br>
+>   <a href="https://github.com/ridka42/TIL/tree/main/Python/Inflearn/WebScrapping/221102"> 웹 스크래핑 (나도코딩) </a> <br>
 #### 섹션 0. 소개
 
 웹 스크래핑 소개
@@ -152,7 +152,7 @@ BeautifulSoup4 활용1, BeautifulSoup4 활용2 (가우스 전자)
 <div markdown="1">     
 
 ### Python        
->   <a href="https://github.com/ridka42/TIL/tree/main/Python/Inflearn/WebScrapping/221103"> 웹 스크래핑(나도코딩) </a> <br>
+>   <a href="https://github.com/ridka42/TIL/tree/main/Python/Inflearn/WebScrapping/221103"> 웹 스크래핑 (나도코딩) </a> <br>
 #### 섹션 1. 기본기
 
 BeautifulSoup4 활용2-1, BeautifulSoup4 활용2-2, BeautifulSoup4 활용2-3, BeautifulSoup4 활용2-4 (쿠팡) 11/03
@@ -163,6 +163,21 @@ CSV 기본1, CSV 기본2(네이버 금융) 11/03
 
 </div>
 </details>
+
+
+<details>
+<summary>7일</summary>
+<div markdown="1">     
+
+### Python        
+>   <a href="https://github.com/ridka42/TIL/tree/main/Python/Inflearn/WebScrapping/221107"> 웹 스크래핑 (나도코딩) </a> <br>
+#### 섹션 1. 기본기
+
+Selenium 기본1, Selenium 기본2, Selenium 심화 (네이버 로그인), Selenium 활용1-1(네이버 항공권) 11/07
+
+</div>
+</details>
+
 
 
 </div>
