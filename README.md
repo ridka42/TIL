@@ -155,11 +155,11 @@ BeautifulSoup4 활용1, BeautifulSoup4 활용2 (가우스 전자)
 >   <a href="https://github.com/ridka42/TIL/tree/main/Python/Inflearn/WebScrapping/221103"> 웹 스크래핑 (나도코딩) </a> <br>
 #### 섹션 1. 기본기
 
-BeautifulSoup4 활용2-1, BeautifulSoup4 활용2-2, BeautifulSoup4 활용2-3, BeautifulSoup4 활용2-4 (쿠팡) 11/03
+BeautifulSoup4 활용2-1, BeautifulSoup4 활용2-2, BeautifulSoup4 활용2-3, BeautifulSoup4 활용2-4 (쿠팡) 
 
-BeautifulSoup4 활용3-1, BeautifulSoup4 활용3-2 (다음 이미지) 11/03
+BeautifulSoup4 활용3-1, BeautifulSoup4 활용3-2 (다음 이미지) 
 
-CSV 기본1, CSV 기본2(네이버 금융) 11/03
+CSV 기본1, CSV 기본2(네이버 금융) 
 
 </div>
 </details>
@@ -173,11 +173,28 @@ CSV 기본1, CSV 기본2(네이버 금융) 11/03
 >   <a href="https://github.com/ridka42/TIL/tree/main/Python/Inflearn/WebScrapping/221107"> 웹 스크래핑 (나도코딩) </a> <br>
 #### 섹션 1. 기본기
 
-Selenium 기본1, Selenium 기본2, Selenium 심화 (네이버 로그인), Selenium 활용1-1(네이버 항공권) 11/07
+Selenium 기본1, Selenium 기본2, Selenium 심화 (네이버 로그인), Selenium 활용1-1(네이버 항공권) 
 
 </div>
 </details>
 
+
+<details>
+<summary>8일</summary>
+<div markdown="1">     
+
+### Python        
+>   <a href="https://github.com/ridka42/TIL/tree/main/Python/Inflearn/WebScrapping/221108"> 웹 스크래핑 (나도코딩) </a> <br>
+#### 섹션 1. 기본기
+
+Selenium 활용2-1, Selenium 활용2-2, Selenium 활용2-3 (구글 도서), Headless 크롬, Wrap Up 
+
+#### 섹션 2. 퀴즈 및 프로젝트
+
+퀴즈 (다음 부동산), 프로젝트 (나만의 비서 만들기) 
+
+</div>
+</details>
 
 
 </div>
