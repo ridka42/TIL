@@ -198,7 +198,7 @@ Selenium 활용2-1, Selenium 활용2-2, Selenium 활용2-3 (구글 도서), Head
 
 
 <details>
-<summary>8일</summary>
+<summary>9일</summary>
 <div markdown="1">     
 
 ### Python        
