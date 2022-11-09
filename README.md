@@ -197,6 +197,19 @@ Selenium 활용2-1, Selenium 활용2-2, Selenium 활용2-3 (구글 도서), Head
 </details>
 
 
+<details>
+<summary>8일</summary>
+<div markdown="1">     
+
+### Python        
+>   <a href="https://github.com/ridka42/TIL/new/main/Python/Inflearn/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%B6%80%ED%84%B0%20%EC%8C%93%EC%95%84%EA%B0%80%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/221109"> 파이썬 기초 라이브러리부터 쌓아가는 머신러닝 (거친코딩) </a> <br>
+#### 섹션 0. Pandas 라이브러리를 활용한 데이터 전처리
+
+판다스란 무엇인가?, Series 및 DataFrame 실습, DataFrame 행,열 필터링 삭제 수정, DataFrame 그룹 생성 11/09
+
+</div>
+</details>
+
 </div>
 </details>
 
