@@ -89,7 +89,7 @@ Python & Uipath
 <div markdown="1"> 
 
 
-Python
+**Python**
 
 
 <details>
@@ -206,6 +206,26 @@ Selenium 활용2-1, Selenium 활용2-2, Selenium 활용2-3 (구글 도서), Head
 #### 섹션 0. Pandas 라이브러리를 활용한 데이터 전처리
 
 판다스란 무엇인가?, Series 및 DataFrame 실습, DataFrame 행,열 필터링 삭제 수정, DataFrame 그룹 생성 11/09
+
+</div>
+</details>
+
+<details>
+<summary>11일</summary>
+<div markdown="1">     
+
+### Python        
+>   <a href="https://github.com/ridka42/TIL/tree/main/Python/AlpacoLec/221111"> 파이썬 데이터 시각화 입문 (알파코) </a> <br>
+
+1. 파이썬 데이터시각화 소개 및 그래프 11/11
+2. 그래프 만들기1(폰트, 색상, 마커, 선) 11/11
+3. 그래프 만들기2(제목, 축 레이블, 그리드, 축의 범위, 눈금 지정) 11/11
+4. 여러 그래프와 범례 표시, plt.subplot 11/11
+5. 위치, 크기 지정해서 플롯그리기, axes를 행, 열로 쪼개서 서브플롯 그리기 11/11]
+6. 전체 행 열과 그래프 순서에 따라 서브플롯 그리기,  데이터의 크기를 비교하는 막대그래프 11/11 
+7. 데이터의 관계를 표현하는 산점도,  색으로 값의 크기를 표현하는 히트맵 11/11
+8. 데이터의 도수분포를 표현하는 히스토그램, 데이터의 통계를 표현하는 박스플롯  11/11
+
 
 </div>
 </details>
