@@ -317,6 +317,27 @@ Selenium 활용2-1, Selenium 활용2-2, Selenium 활용2-3 (구글 도서), Head
 </details>
 
 
+<details>
+<summary>15일</summary>
+<div markdown="1">     
+
+### Python        
+>   <a href="https://github.com/ridka42/TIL/tree/main/Python/AlpacoLec/221115"> 파이썬 데이터 시각화 입문 (알파코) </a> <br>
+
+#### 연령별 인구구조 시각화
+25. 서울시 구별 인구구조, 특정 동 인구구조 11/15
+
+#### 아파트 실거래가 분석, 시각화
+26. 데이터 수집 및 전처리, 시도-연령별 인구구조 11/15
+
+27. 시도별 아파트 매매가 현황 시각화, 서울시 아파트 매매가 분포 11/15
+
+28. 시도별 아파트 매매가 현황 시각화, 서울시 아파트 매매가 분포 11/15
+
+</div>
+</details>
+
+
 </div>
 </details>
 
