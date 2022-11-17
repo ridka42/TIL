@@ -1,7 +1,8 @@
 # TIL
 
 <a href="https://github.com/ridka42/TIL/tree/main/Python">Python</a></li> <br>
-<a href="https://github.com/ridka42/TIL/tree/main/Uipath">Uipath</a></li>
+<a href="https://github.com/ridka42/TIL/tree/main/Uipath">Uipath</a></li> <br>
+<a href="https://github.com/ridka42/TIL/tree/main/R">R</a></li>
 
 ## 2022
 
@@ -89,7 +90,7 @@ Python & Uipath
 <div markdown="1"> 
 
 
-**Python**
+**Python & R**
 
 
 <details>
@@ -333,6 +334,32 @@ Selenium 활용2-1, Selenium 활용2-2, Selenium 활용2-3 (구글 도서), Head
 27. 시도별 아파트 매매가 현황 시각화, 서울시 아파트 매매가 분포 11/15
 
 28. 서울시 아파트 구별 평균 매매가, 거래건수 11/15
+
+</div>
+</details>
+
+<details>
+<summary>17일</summary>
+<div markdown="1">     
+
+### R      
+>   <a href="https://github.com/ridka42/TIL/new/main/R/AlpacoLec/221117"> R 활용 데이터 분석 A to Z (알파코) </a> <br>
+
+R의 개요 11/17
+
+R의 범용성과 역할 11/17
+
+Rstudio 설치/사용방법 11/17
+
+working directory 설정 및 프로젝트, 유용한 환경 설정 알아보기 11/17
+
+데이터 타입과 종류 11/17
+
+R 자료 구조와 실습 11/17
+
+변수와 함수의 이해 11/17
+
+패키지 이해와 실습 11/17
 
 </div>
 </details>
