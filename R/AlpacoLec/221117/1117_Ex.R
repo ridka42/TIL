@@ -1,0 +1,28 @@
+age = c(30,33,35,30,68,33)
+job = c('무직','서비스','관리직','관리직','은퇴','관리직')
+marital = c('결혼','결혼','미혼','결혼','사별','결혼')
+balance = c(1787,4788,1350,1476,4189,3935)
+campaign = c('휴대폰','휴대폰','휴대폰','Unknown','유선전화','휴대폰')
+y = c(F,F,F,F,T,T)
+df = data.frame(age,job,marital,balance,campaign,y)
+print(df)
+df$age_mean <- mean(df$age)
+df$balance_mean <- mean(df$balance)
+print(df)
+age_mean <- mean(age)
+balance_mean <- mean(balance)
+print(age_mean)
+print(balance_mean)
+y_toNum <- as.numeric(y)
+y_count <- sum(y_toNum)
+print(y_count)
+install.packages("stringr")
+library(stringr)
+job_new <- str_replace(job,'은퇴','무직')
+marital_new <- str_replace(marital, '결혼','T')
+marital_logical < - NULL
+df$job <- job_new
+df$marital <-  str_replace(marital, '결혼','T')
+df$marital <-  as.logical(df$marital)
+df$marital[is.na(df$marital)] = F
+df
