@@ -343,7 +343,7 @@ Selenium 활용2-1, Selenium 활용2-2, Selenium 활용2-3 (구글 도서), Head
 <div markdown="1">     
 
 ### R      
->   <a href="https://github.com/ridka42/TIL/new/main/R/AlpacoLec/221117"> R 활용 데이터 분석 A to Z (알파코) </a> <br>
+>   <a href="https://github.com/ridka42/TIL/tree/main/R/AlpacoLec/221117"> R 활용 데이터 분석 A to Z (알파코) </a> <br>
 
 R의 개요 11/17
 
