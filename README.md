@@ -364,6 +364,32 @@ R 자료 구조와 실습 11/17
 </div>
 </details>
 
+<details>
+<summary>18일</summary>
+<div markdown="1">     
+
+### R      
+>   <a href="https://github.com/ridka42/TIL/tree/main/R/AlpacoLec/221118"> R 활용 데이터 분석 A to Z (알파코) </a> <br>
+
+R 연산자와 함수 및 조건문 11/18
+
+반복문과 사용자 정의 함수 11/18
+
+데이터 가져오기와 내보내기, 확인과 조작 11/18
+
+데이터 그리기와 실습 11/18
+
+dplyr 패키지 설치와 함수 이해 11/18
+
+테이블 조작과 dplyr 패키지 실습 11/18
+
+ggplot2 패키지 및 문법과 시각화 11/18
+
+ggplot2 사용 그래프 및 시각화 11/18
+
+</div>
+</details>
+
 
 </div>
 </details>
