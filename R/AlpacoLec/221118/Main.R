@@ -1,0 +1,10 @@
+source('airport.R',encoding='UTF-8')
+flight<-get_flight()
+airline<-get_airline()
+freight<-get_freight()
+passenger<-get_passenger()
+print(airport)
+
+upperAgvAirline_17()
+upperAgvAirline_18()
+upperAgvAirline_19()
