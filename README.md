@@ -1,4 +1,6 @@
-# TIL
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Today+I+Learn)](https://git.io/typing-svg)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ridka42&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/ridka42/TIL/tree/main/Python">Python</a></li> <br>
 <a href="https://github.com/ridka42/TIL/tree/main/Uipath">Uipath</a></li> <br>
