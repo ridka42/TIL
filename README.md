@@ -244,6 +244,8 @@
 >   <a href="https://github.com/ridka42/TIL/tree/main/Python/Inflearn/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%B6%80%ED%84%B0%20%EC%8C%93%EC%95%84%EA%B0%80%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/221221"> 21일 </a> <br>
 >   Bar, Pie, Line, Scatter, HeatMap, Histogram, Box 차트 이해 및 제작 
 
+>   <a href="https://github.com/ridka42/TIL/tree/main/Python/Inflearn/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EC%B4%88%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%B6%80%ED%84%B0%20%EC%8C%93%EC%95%84%EA%B0%80%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/221222"> 22일 </a> <br>
+>   선형 회귀 정의 & 비용함수 & 학습선형, 회귀 모델의 최적화 방법 
 
 </div>
 </details>
